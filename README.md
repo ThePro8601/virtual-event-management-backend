@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🎉 Virtual Event Management API
 
 A backend system built with **Node.js** and **Express.js** to manage virtual events. It supports user registration, authentication, role-based access (Organizer & Participant), event creation, registration, and email notifications.
@@ -174,15 +171,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ✨ Author
 
 Built with ❤️ by [Rudransh Singh]
 ```
-
----
